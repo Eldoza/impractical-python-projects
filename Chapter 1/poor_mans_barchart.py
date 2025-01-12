@@ -1,0 +1,1 @@
+# The six most commonly used letters in the english language can be remembered with the mnemonic "etaoin". Write a python script that takes a sentence (string) as input and returns a simple bar chart type display. Hint: I used dictionary data structure and two modules that I havent covered yet, pprint, and collections/default/dict
